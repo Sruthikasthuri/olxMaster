@@ -10,6 +10,6 @@ import lombok.NoArgsConstructor;
 public class status {
 
 	
-	private long id;
-	private String status;
+	private int statusId;
+	private String statusName;
 }
